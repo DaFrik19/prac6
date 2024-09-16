@@ -23,3 +23,9 @@ cofactores de las matrices, y como sacar determinantes de 3x3 usando python
 ## Rogelio Trejo Perez 
 
 Funciones exponenciales, y funciones decrecientes
+
+# Programación
+
+## Jonathan Ulises Miranda Charles 
+
+Branches, js, css, y html
