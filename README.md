@@ -11,3 +11,9 @@ Vulnerabilidades, amenazas, y consecuencias de ataques a la confidencialidad, au
 ## Rebeca Rodriguez Pantoja
 
 Protocolos de IP, y un resumen sobre la historia de internet y las computadoras
+
+# Álgebra 
+
+## Hugo Tlahuextl Aca 
+
+cofactores de las matrices, y como sacar determinantes de 3x3 usando python
