@@ -17,3 +17,9 @@ Protocolos de IP, y un resumen sobre la historia de internet y las computadoras
 ## Hugo Tlahuextl Aca 
 
 cofactores de las matrices, y como sacar determinantes de 3x3 usando python
+
+# Matemáticas 
+
+## Rogelio Trejo Perez 
+
+Funciones exponenciales, y funciones decrecientes
