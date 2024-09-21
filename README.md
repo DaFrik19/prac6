@@ -31,3 +31,7 @@ Funciones exponenciales, y funciones decrecientes
 Branches, js, css, y html
 
 creando versión 1.0.0
+
+creando versión 1.1.0
+
+otro cambio
