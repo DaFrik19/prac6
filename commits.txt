@@ -1,0 +1,35 @@
+commit 30a53e45dc732fc74827903beaa80ec49c3d99da
+Author: DaFrik19 <tecratoc@gmail.com>
+Date:   Mon Sep 16 10:07:06 2024 -0600
+
+    programción
+
+commit f74b5c43b726afdd53c3cdd1f48775bcab06e1be
+Author: DaFrik19 <tecratoc@gmail.com>
+Date:   Mon Sep 16 10:05:35 2024 -0600
+
+    matematicas
+
+commit f50717ef6ae22c3238ae4857eccf148fe38e0b28
+Author: DaFrik19 <tecratoc@gmail.com>
+Date:   Mon Sep 16 10:03:08 2024 -0600
+
+    algebra
+
+commit 9e1b8057156ddf6fb6bc12417687a8a3d03aabb9
+Author: DaFrik19 <tecratoc@gmail.com>
+Date:   Mon Sep 16 09:58:28 2024 -0600
+
+    fundamentos
+
+commit 648eb9d48043ff58f3aa37e28e7ba7f0f8f088c8
+Author: DaFrik19 <tecratoc@gmail.com>
+Date:   Mon Sep 16 09:53:45 2024 -0600
+
+    introducción a la ciberseguridad
+
+commit fc535f36e04474b9f044e3988bea5e8f770896b9
+Author: DaFrik19 <tecratoc@gmail.com>
+Date:   Mon Sep 16 09:47:17 2024 -0600
+
+    primer commit
