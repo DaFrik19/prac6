@@ -29,3 +29,5 @@ Funciones exponenciales, y funciones decrecientes
 ## Jonathan Ulises Miranda Charles 
 
 Branches, js, css, y html
+
+creando versión 1.0.0
